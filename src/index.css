@@ -1,8 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Poppins', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -10,4 +10,40 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+/* navbar start */
+.logo-saas{
+  height: 50px;
+  float: left;
+  margin-right: 7px;
+}
+button.m-2.bg.text-dark{
+  border: none;
+  border-radius: 30px;
+  background-color:lightgray;
+  font-weight: 600;
+  padding: 5px 15px;
+}
+/* navbar end */
+
+
+a.btn.m-2.text-dark{
+  background-color: lightgray;
+  border-radius: 30px;
+}
+
+a.btn.m-2.text-dark {
+  min-width: -webkit-fill-available;
+}
+.card-body.last{
+  background-color:#030052;
+  color: white;
+  
+}
+a.btn.m-2.text-dark.bg-primary.p-2{
+  color: white !important;
+}
+.container-fluid.form{
+  background-image: url(../src/assets/bg.jpg);
+  filter: brightness(0.8);
 }
