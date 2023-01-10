@@ -22,7 +22,7 @@ const Navbar = () => {
 
         
         <li className="nav-item">
-          <a className="nav-link">About</a>
+          <a href="https://saasmantra.com/" className="nav-link">About</a>
         </li>
       </ul>
       <form className="d-flex " role="search">
