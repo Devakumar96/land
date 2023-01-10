@@ -1,5 +1,4 @@
 import React from 'react';
-import {BsFillBrightnessHighFill} from 'react-icons/bs';
 import {BsFillCameraFill} from 'react-icons/bs';
 import {BsFillGearFill} from 'react-icons/bs';
 import {BsBagPlus} from 'react-icons/bs';
