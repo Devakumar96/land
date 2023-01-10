@@ -16,8 +16,8 @@ const IconSection = () => {
         <h2 className='text-danger fs-3' >*Use any icon</h2>
         </div>
 
-        <div class="row">
-    <div class="col">
+        <div className="row">
+    <div className="col">
         <div className='card text-center border-0'>
         <div className='head-icon display-2'>
         <BsFillCameraFill/>
@@ -32,7 +32,7 @@ const IconSection = () => {
         </div>
     </div>
 
-    <div class="col">
+    <div className="col">
         <div className='card text-center border-0'>
         <div className='head-icon display-2'>
         <BsFillGearFill/>
@@ -48,7 +48,7 @@ const IconSection = () => {
     </div>
 
 
-    <div class="col">
+    <div className="col">
         <div className='card text-center border-0'>
         <div className='head-icon display-2'>
         <BsCameraVideo/>
@@ -63,7 +63,7 @@ const IconSection = () => {
         </div>
     </div>
 
-    <div class="col">
+    <div className="col">
         <div className='card text-center border-0'>
         <div className='head-icon display-2'>
         <BsBagPlus/>
@@ -78,7 +78,7 @@ const IconSection = () => {
         </div>
     </div>
 
-    <div class="col">
+    <div className="col">
         <div className='card text-center border-0'>
         <div className='head-icon display-2'>
         <BsBagPlus/>
@@ -93,7 +93,7 @@ const IconSection = () => {
         </div>
     </div>
 
-       <div class="col">
+       <div className="col">
         <div className='card text-center border-0'>
         <div className='head-icon display-2'>
         <BsBootstrapReboot/>
@@ -110,8 +110,8 @@ const IconSection = () => {
    
   </div>
 
-  <div class="row">
-  <div class="col">
+  <div className="row">
+  <div className="col">
         <div className='card text-center border-0'>
         <div className='head-icon display-2'>
         <BsBootstrapReboot/>
@@ -126,7 +126,7 @@ const IconSection = () => {
         </div>
     </div>
    
-    <div class="col">
+    <div className="col">
         <div className='card text-center border-0'>
         <div className='head-icon display-2'>
         <BsBagPlus/>
@@ -141,7 +141,7 @@ const IconSection = () => {
         </div>
     </div>
 
-     <div class="col">
+     <div className="col">
         <div className='card text-center border-0'>
         <div className='head-icon display-2'>
         <BsBagPlus/>
@@ -156,7 +156,7 @@ const IconSection = () => {
         </div>
     </div>
 
-    <div class="col">
+    <div className="col">
         <div className='card text-center border-0'>
         <div className='head-icon display-2'>
         <BsCameraVideo/>
@@ -171,7 +171,7 @@ const IconSection = () => {
         </div>
     </div>
 
-    <div class="col">
+    <div className="col">
         <div className='card text-center border-0'>
         <div className='head-icon display-2'>
         <BsFillGearFill/>
@@ -186,7 +186,7 @@ const IconSection = () => {
         </div>
     </div>
 
-    <div class="col">
+    <div className="col">
         <div className='card text-center border-0'>
         <div className='head-icon display-2'>
         <BsFillGearFill/>
